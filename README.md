@@ -1,6 +1,10 @@
-## ROOMING (Room Booking)
+### Tugas Analisis Desain dan Sistem 
+### Oleh: Audrey Roselyn Natasya (12030122140296)
+### Kelas D Andes S1- Akuntansi dengan Bapak Totok Dewayanto
 
-Aplikasi booking ruangan sederhana
+### ROOMING (Room Booking)
+
+Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. 
 
 Pertama user membuat form, form otomatis akan berstatus PENDING. Lalu admin bisa menyetujui atau menolak permintaan booking user. Admin juga bisa membatalkan penyetujuan maupun penolakan booking. 
 
@@ -67,8 +71,6 @@ Admin\
 Username: admin\
 Password: admin
 
-### Lisensi
-ROOMING menggunakan [lisensi MIT](https://github.com/fajarwz/rooming/blob/main/LICENSE)
 
 ### Demo
 [Youtube](https://youtu.be/ZZL4VrJCA3E)
@@ -76,9 +78,46 @@ ROOMING menggunakan [lisensi MIT](https://github.com/fajarwz/rooming/blob/main/L
 ### Misc
 Aplikasi ini memanfaatkan Blade Component dengan teknik reusable component. Form input hanya 1, tapi dipanggil di setiap fitur tambah data. Input field juga ada 1 tapi dipanggil berkali-kali di setiap fitur tambah data. Lumayan untuk belajar blade component.
 
-by: fajarwz
+### Berikut adalah tampilan aplikasi hotel yang saya buat:
+### Halaman  login 👇
+![login hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/8f10f8b2-4517-466c-a81a-6a4fcf4e1854)
+Melalui halaman ini nantinya baik admin maupun user (pelanggan) mengisi username dan password agar bisa masuk ke aplikasi sistem hotel. 
 
-[Visit my Web](https://fajarwz.netlify.app)\
-[Visit my Medium](https://fajarwz.medium.com)\
-[Get Connected](https://linkedin.com/in/fajarwz)\
-[Let's be friends](https://fb.me/fajarwz123)
+### Halaman  dashboard admin 👇
+![halaman dashboard admin hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/397edc19-2f45-418f-9ef0-58a34ebed3fd)
+Halaman ini berfungsi untuk menampilkan informasi total ruangan, total user, dan total pemesanan kamar yang dipesan oleh pelanggan. 
+
+
+### Halaman  data ruangan 👇
+![data ruangan hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/b3a41fd7-4b17-4fd9-b874-01dd5171de3b)
+Halaman ini berfungsi untuk menampilkan daftar data-data ruangan apa saja yang disediakan oleh hotel termasuk kapasitas dan deskripsinya. 
+
+### Halaman data user 👇
+![data user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/9fc6b413-9f41-4301-9866-7bda48cf535f)
+Halaman ini berfungsi untuk menampilkan data-data pelanggan yang masuk ke sistem informasi hotel.
+
+### Halaman booking lists 👇
+![booking list hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/3da7e8aa-7743-4f10-be51-c691b9649bc9)
+Halaman ini berfungsi untuk menampilkan daftar-daftar pesanan yang sudah di booking oleh para pelanggan sebelumnya. 
+
+### Halaman dashboard user 👇
+![dashboard hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/387c2c3e-c5e9-47e7-8fe8-d2b99d5313d9)
+Halaman ini berfungsi untuk menampilkan jumlah pesanan yang mereka buat sebelumya. 
+
+### Halaman data ruangan user 👇
+![data ruangan user hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/2576f10c-4ee1-433e-987c-31bbd66682af)
+Halaman ini berfungsi untuk menampilkan data-data ruangan yang ada
+
+### Halaman my booking list 👇
+![mu booking list hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/0bcb1cfd-3796-402d-b745-f36f3be66573)
+Halaman ini berfungsi untuk menampilkan daftar-daftar pesanan kamar yang sudah dipesan oleh user atau pelanggan.
+
+### Halaman ganti password 👇
+![ganti password hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/fbbf992b-e807-48cb-ad95-e53d7752d412)
+Halaman ini berfungsi buat admin dan juga user untuk mengganti password mereka.
+
+
+
+
+
+
