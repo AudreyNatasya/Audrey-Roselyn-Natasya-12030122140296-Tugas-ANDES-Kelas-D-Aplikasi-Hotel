@@ -1,4 +1,4 @@
-### Tugas Analisis Desain dan Sistem 
+### Tugas Analisis dan Desain Sistem 
 ### Oleh: Audrey Roselyn Natasya (12030122140296)
 ### Kelas D Andes S1- Akuntansi dengan Bapak Totok Dewayanto
 
