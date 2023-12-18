@@ -144,21 +144,18 @@ Didalam source code user ini terdiri dari tiga yaitu source code booking list, u
   
 - Edit_or_create.blade: digunakan untuk menampilkan halaman web yang digunakan untuk membuat atau mengedit data kamar. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan atau 
   mengubah informasi tentang kamar.
-  ![source code edit or created blade room](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/738deff9-ec23-49f5-a705- 
-  5b98996c5ccd)
+  ![source code edit or created blade room](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/738deff9-ec23-49f5-a705-5b98996c5ccd)
 
 ### c. Source code user
 Didalam source code user ini terdiri dari empat komponen yaitu:
 
 - Source code change-pass.blade:
   Digunakan untuk menampilkan halaman web yang digunakan untuk mengubah kata sandi pengguna. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan kata sandi baru.
-  ![source code change pass blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/01fe7bd2-9ac7-4938-86ea- 
-  2de9a6c600fa)
+  ![source code change pass blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/01fe7bd2-9ac7-4938-86ea-2de9a6c600fa)
 
 - Source code create.blade
   Digunakan untuk menampilkan halaman web yang digunakan untuk membuat data pengguna baru. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan data pengguna baru.
-  ![source code create blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/5ea4e44b-8a4b-4fe5-9741- 
-  d90b99f375ff)
+  ![source code create blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/5ea4e44b-8a4b-4fe5-9741-d90b99f375ff)
 
 - Source code edit.blade
   Digunakan untuk menampilkan halaman web yang digunakan untuk mengedit data pengguna. Halaman ini memiliki formulir yang dapat digunakan untuk mengubah data pengguna yang sudah ada.
