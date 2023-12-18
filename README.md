@@ -125,6 +125,23 @@ Berikut adalah beberapa source code dari sistem informasi hotel 👇
 ### 2. Source code room user
 ![source code room user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/659c14f2-151d-49ac-ac7c-e4013f05ed32)
 
+### 3. Source code change pass
+![source code change pass](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/c06246a4-1389-4436-b435-9302065cb222)
+
+### 4. Source code booking list admin
+![source code booking list admin](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/8f60e142-551e-4f73-8d65-15479f8fad40)
+
+### 5. Source code room admin
+![source code room admin](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/e93d9aca-b74c-4b69-b455-434d39b61cb4)
+
+### 6. Source code user
+![source code user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/451fe88a-1506-479b-857b-47cd5283e4dc)
+
+### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
+[Audrey Roselyn Natasya 12030122140296_Laporan Tugas ANDES Aplikasi Hotel.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/files/13705360/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.ANDES.Aplikasi.Hotel.pdf)
+
+
+
 
 
 
