@@ -1,11 +1,13 @@
 ### Tugas Analisis dan Desain Sistem 
-### Oleh: Audrey Roselyn Natasya (12030122140296)
-### Kelas D Andes S1- Akuntansi dengan Bapak Totok Dewayanto
+### Nama: Audrey Roselyn Natasya 
+### NIM: (12030122140296)
+### Jurusan: S1-Akuntansi
+### Mata kuliah/ kelas: Analisis dan Desain Sistem/ kelas D
+### Dosen pengampu: Bapak Totok Dewayanto, S.E.,M.Si., Akt.
 
 ### ROOMING (Room Booking)
 
-Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. 
-Aplikasi sistem informasi hotel ini menggunakan laravel PHP 8. 
+Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. Aplikasi sistem informasi hotel ini menggunakan laravel PHP 8. 
 
 Pertama user membuat form, form otomatis akan berstatus PENDING. Lalu admin bisa menyetujui atau menolak permintaan booking user. Admin juga bisa membatalkan penyetujuan maupun penolakan booking. 
 
