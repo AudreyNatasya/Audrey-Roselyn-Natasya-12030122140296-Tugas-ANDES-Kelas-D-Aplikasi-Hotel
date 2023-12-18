@@ -115,6 +115,17 @@ Halaman ini berfungsi untuk menampilkan daftar-daftar pesanan kamar yang sudah d
 ![ganti password hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/fbbf992b-e807-48cb-ad95-e53d7752d412)
 Halaman ini berfungsi buat admin dan juga user untuk mengganti password mereka.
 
+### Source Code
+Source code dalam sistem informasi aplikasi hotel adalah kode program yang ditulis dalam bahasa pemrograman tertentu, seperti PHP, Java, atau Python. Kode program ini berisi instruksi-instruksi yang akan dijalankan oleh komputer untuk membuat sistem informasi aplikasi hotel tersebut berfungsi.
+Berikut adalah beberapa source code dari sistem informasi hotel 👇
+
+### 1. Source code my booking list user
+![source code my booking list user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/1967e1e0-0825-4340-850b-6c82d401a90b)
+
+### 2. Source code room user
+![source code room user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/659c14f2-151d-49ac-ac7c-e4013f05ed32)
+
+
 
 
 
