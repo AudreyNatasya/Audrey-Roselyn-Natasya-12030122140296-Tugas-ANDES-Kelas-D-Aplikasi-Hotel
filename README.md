@@ -73,10 +73,6 @@ Username: admin\
 Password: admin
 
 
-### Demo
-[Youtube](https://youtu.be/ZZL4VrJCA3E)
-
-
 ### Berikut adalah tampilan aplikasi hotel yang saya buat:
 ### Halaman  login 👇
 ![login hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/8f10f8b2-4517-466c-a81a-6a4fcf4e1854)
