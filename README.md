@@ -5,9 +5,9 @@
 ### Mata kuliah/ kelas: Analisis dan Desain Sistem/ kelas D
 ### Dosen pengampu: Bapak Totok Dewayanto, S.E.,M.Si., Akt.
 
-### ROOMING (Room Booking)
+### ROOMING (Room Booking) 😄
 
-Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. Aplikasi sistem informasi hotel ini menggunakan laravel PHP 8. 
+Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. Aplikasi hotel ini bergerak di bidang teknologi informasi. Sistem ini memanfaatkan teknologi informasi untuk membantu hotel dalam mengelola operasionalnya. Dengan adanya sistem informasi hotel, hotel dapat meningkatkan efisiensi dan efektivitas operasionalnya, serta memberikan layanan yang lebih baik kepada tamu.Aplikasi sistem informasi hotel ini menggunakan laravel PHP 8. 
 
 Pertama user membuat form, form otomatis akan berstatus PENDING. Lalu admin bisa menyetujui atau menolak permintaan booking user. Admin juga bisa membatalkan penyetujuan maupun penolakan booking. 
 
@@ -83,7 +83,6 @@ Melalui halaman ini nantinya baik admin maupun user (pelanggan) mengisi username
 ### Halaman  dashboard admin 👇
 ![halaman dashboard admin hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/397edc19-2f45-418f-9ef0-58a34ebed3fd)
 Halaman ini berfungsi untuk menampilkan informasi total ruangan, total user, dan total pemesanan kamar yang dipesan oleh pelanggan. 
-
 
 ### Halaman  data ruangan 👇
 ![data ruangan hotel](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/b3a41fd7-4b17-4fd9-b874-01dd5171de3b)
