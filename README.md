@@ -5,6 +5,7 @@
 ### ROOMING (Room Booking)
 
 Merupakan aplikasi yang dibuat untuk memesan hotel. Melalui aplikasi ini pelanggan atau user bisa memesan kamar dan mendapatakan segala informasi tentang kamar yang disediakan dengan cepat, sehingga pemesanan hotel bisa dilakukan dengan lebih cepat, efektif, dan efisien. 
+Aplikasi sistem informasi hotel ini menggunakan laravel PHP 8. 
 
 Pertama user membuat form, form otomatis akan berstatus PENDING. Lalu admin bisa menyetujui atau menolak permintaan booking user. Admin juga bisa membatalkan penyetujuan maupun penolakan booking. 
 
@@ -75,8 +76,6 @@ Password: admin
 ### Demo
 [Youtube](https://youtu.be/ZZL4VrJCA3E)
 
-### Misc
-Aplikasi ini memanfaatkan Blade Component dengan teknik reusable component. Form input hanya 1, tapi dipanggil di setiap fitur tambah data. Input field juga ada 1 tapi dipanggil berkali-kali di setiap fitur tambah data. Lumayan untuk belajar blade component.
 
 ### Berikut adalah tampilan aplikasi hotel yang saya buat:
 ### Halaman  login 👇
