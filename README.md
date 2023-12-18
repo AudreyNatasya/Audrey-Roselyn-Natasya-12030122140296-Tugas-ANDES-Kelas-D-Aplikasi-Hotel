@@ -117,23 +117,57 @@ Halaman ini berfungsi buat admin dan juga user untuk mengganti password mereka.
 Source code dalam sistem informasi aplikasi hotel adalah kode program yang ditulis dalam bahasa pemrograman tertentu, seperti PHP, Java, atau Python. Kode program ini berisi instruksi-instruksi yang akan dijalankan oleh komputer untuk membuat sistem informasi aplikasi hotel tersebut berfungsi.
 Berikut adalah beberapa source code dari sistem informasi hotel 👇
 
-### 1. Source code my booking list user
-![source code my booking list user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/1967e1e0-0825-4340-850b-6c82d401a90b)
+### 1. Source code user
+Didalam source code user ini terdiri dari dua yaitu source code my booking list dan source code room. 
 
-### 2. Source code room user
-![source code room user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/659c14f2-151d-49ac-ac7c-e4013f05ed32)
+### a. Source code my booking list
+Source code my booking list berfungsi untuk mengubah atau mengedit daftar-daftar pesanan yang tersedia. 
+![source code my booking list user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/ef918698-dead-4263-b584-304ff7c30a82)
 
-### 3. Source code change pass
-![source code change pass](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/c06246a4-1389-4436-b435-9302065cb222)
+### b. Source code room 
+Source code room berfungsi untuk mengubah atau mengedit daftar-daftar kamar yang tersedia. 
+![source code room user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/7dd20bd0-3e2c-478c-b3a3-373f3e9f2a8e)
 
-### 4. Source code booking list admin
-![source code booking list admin](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/8f60e142-551e-4f73-8d65-15479f8fad40)
+### 2. Source code change pass
+Source code dibawah ini berfungsi untuk mengubah atau mengedit password admin maupun user. 
+![source code change pass](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/c94669ec-28ca-4c96-876b-c763dd932c7f)
 
-### 5. Source code room admin
-![source code room admin](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/e93d9aca-b74c-4b69-b455-434d39b61cb4)
+### 3. Source code admin
+Didalam source code user ini terdiri dari tiga yaitu source code booking list, user dan source code room. 
 
-### 6. Source code user
-![source code user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/451fe88a-1506-479b-857b-47cd5283e4dc)
+### a. Source code booking list (admin)
+![source code booking list admin](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/d6aaec56-2f82-4d29-9390-be07ae63bce1)
+
+### b. Source code user (admin)
+- Index.blade: digunakan untuk menampilkan halaman web yang menampilkan daftar semua kamar. Halaman ini dapat digunakan untuk melihat informasi tentang daftar kamar yang tersedia.
+  ![source code index blade room](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/144278fb-82e0-40b1-a4e0-8ec5606b4ddb)
+  
+- Edit_or_create.blade: digunakan untuk menampilkan halaman web yang digunakan untuk membuat atau mengedit data kamar. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan atau 
+  mengubah informasi tentang kamar.
+  ![source code edit or created blade room](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/738deff9-ec23-49f5-a705- 
+  5b98996c5ccd)
+
+### c. Source code user
+Didalam source code user ini terdiri dari empat komponen yaitu:
+
+- Source code change-pass.blade:
+  Digunakan untuk menampilkan halaman web yang digunakan untuk mengubah kata sandi pengguna. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan kata sandi baru.
+  ![source code change pass blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/01fe7bd2-9ac7-4938-86ea- 
+  2de9a6c600fa)
+
+- Source code create.blade
+  Digunakan untuk menampilkan halaman web yang digunakan untuk membuat data pengguna baru. Halaman ini memiliki formulir yang dapat digunakan untuk memasukkan data pengguna baru.
+  ![source code create blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/5ea4e44b-8a4b-4fe5-9741- 
+  d90b99f375ff)
+
+- Source code edit.blade
+  Digunakan untuk menampilkan halaman web yang digunakan untuk mengedit data pengguna. Halaman ini memiliki formulir yang dapat digunakan untuk mengubah data pengguna yang sudah ada.
+  ![source code edit blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/b15287e2-1030-4219-88dd-2a849abaeb51)
+
+- Source code index.blade
+  Untuk menampilkan halaman web yang menampilkan daftar semua pengguna. Halaman ini dapat digunakan untuk melihat informasi tentang pengguna, seperti nama, alamat, dan nomor telepon.
+  ![source code index blade user](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/assets/152130643/0e2e8e64-c190-4941-9849-5c81e393df2a)
+   
 
 ### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
 [Audrey Roselyn Natasya 12030122140296_Laporan Tugas ANDES Aplikasi Hotel.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/files/13705360/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.ANDES.Aplikasi.Hotel.pdf)
