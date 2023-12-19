@@ -166,8 +166,7 @@ Didalam source code user ini terdiri dari empat komponen yaitu:
    
 
 ### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
-[Audrey Roselyn Natasya 12030122140296_Laporan Tugas ANDES Aplikasi Hotel.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/files/13705360/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.ANDES.Aplikasi.Hotel.pdf)
-
+[Audrey Roselyn Natasya_12030122140296_LaporanAkhir.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Hotel/files/13709884/Audrey.Roselyn.Natasya_12030122140296_LaporanAkhir.pdf)
 
 
 
